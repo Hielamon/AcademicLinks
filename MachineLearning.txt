@@ -1,4 +1,4 @@
 Top Conferences:
   ICML
-  Neurips
+  NIPS
   ICLR
